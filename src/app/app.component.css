@@ -1,0 +1,16 @@
+.directions-car-icon, .top-app-bar-text, .person-icon, .home-icon, .login-icon  {
+    color: white;
+}
+
+.top-app-bar {
+    background-color: black;
+} 
+
+.icons-spacer {
+    flex: 1 1 auto;
+}
+
+.card-pesquisas {
+    width: 900px;
+    height: 400px;
+}
